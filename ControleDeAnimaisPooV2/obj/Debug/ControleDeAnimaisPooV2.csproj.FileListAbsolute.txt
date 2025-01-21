@@ -1,0 +1,7 @@
+C:\Users\WIN11\source\repos\ControleDeAnimaisPooV2\ControleDeAnimaisPooV2\bin\Debug\ControleDeAnimaisPooV2.exe.config
+C:\Users\WIN11\source\repos\ControleDeAnimaisPooV2\ControleDeAnimaisPooV2\bin\Debug\ControleDeAnimaisPooV2.exe
+C:\Users\WIN11\source\repos\ControleDeAnimaisPooV2\ControleDeAnimaisPooV2\bin\Debug\ControleDeAnimaisPooV2.pdb
+C:\Users\WIN11\source\repos\ControleDeAnimaisPooV2\ControleDeAnimaisPooV2\obj\Debug\ControleDeAnimaisPooV2.csproj.AssemblyReference.cache
+C:\Users\WIN11\source\repos\ControleDeAnimaisPooV2\ControleDeAnimaisPooV2\obj\Debug\ControleDeAnimaisPooV2.csproj.CoreCompileInputs.cache
+C:\Users\WIN11\source\repos\ControleDeAnimaisPooV2\ControleDeAnimaisPooV2\obj\Debug\ControleDeAnimaisPooV2.exe
+C:\Users\WIN11\source\repos\ControleDeAnimaisPooV2\ControleDeAnimaisPooV2\obj\Debug\ControleDeAnimaisPooV2.pdb
